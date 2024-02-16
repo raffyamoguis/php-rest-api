@@ -1,6 +1,7 @@
 <?php 
 
 require "../bootstrap.php";
+
 use Src\Controller\PersonController;
 
 header("Access-Control-Allow-Origin: *");
